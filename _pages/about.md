@@ -73,7 +73,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 ## Publications 
 ### Preprint
 
-* Yicong Dong, **Rundong He***, Guangyao Chen, Wentao Zhang, Zhongyi Han, Jieming Shi, Yilong Yin.
+* Yicong Dong, **Rundong He***, Guangyao Chen, Wentao Zhang, Zhongyi Han, Jieming Shi, Yilong Yin. (Note: * denotes the corresponding author)
 
    G-OSR: A Comprehensive Benchmark for Graph Open-Set Recognition. [paper](https://arxiv.org/abs/2503.00476)
 
