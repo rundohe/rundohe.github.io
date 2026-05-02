@@ -73,7 +73,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 ## Publications 
 ### Preprint
 
-* Yicong Dong, **Rundong He***, Guangyao Chen, Wentao Zhang, Zhongyi Han, Jieming Shi, Yilong Yin. (Note: * denotes the corresponding author)
+* Yicong Dong, **Rundong He***, Guangyao Chen, Wentao Zhang, Zhongyi Han, Jieming Shi, Yilong Yin. 
 
    G-OSR: A Comprehensive Benchmark for Graph Open-Set Recognition. [paper](https://arxiv.org/abs/2503.00476)
 
@@ -83,7 +83,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 
 ### Accepted Conference
 
-* Yuxiang Xu, **Rundong He***, Zhiyuan Yan, Yicong Dong, Zhongyi Han, Xiaoyan Wang, Yilong Yin.
+* Yuxiang Xu, **Rundong He***, Zhiyuan Yan, Yicong Dong, Zhongyi Han, Xiaoyan Wang, Yilong Yin. (Note: * denotes the corresponding author)
 
   BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning. ICML 2026 (CCF A) 
 
