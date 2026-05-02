@@ -40,6 +40,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 * AAAI 2023-2024
 
 ## Recent News
+* 2026/05/02: 1 paper accepted to ICML 2026.
 * 2026/02/04: 1 paper accepted to KBS.
 * 2026/01/26: 1 paper accepted to ICLR 2026.
 * 2025/10/04: 1 paper accepted to Pattern Recognition.
@@ -82,13 +83,17 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 
 ### Accepted Conference
 
+* Yuxiang Xu, **Rundong He***, Zhiyuan Yan, Yicong Dong, Zhongyi Han, Xiaoyan Wang, Yilong Yin.
+
+  BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning. ICML 2026 (CCF A) 
+
 * **Rundong He**; Jieming Shi.
   
-  Prior-free Tabular Test-time Adaptation. ICLR 2026 (清华推荐A类) 
+  Prior-free Tabular Test-time Adaptation. ICLR 2026 (CCF A) 
 
 * **Rundong He**; Yicong Dong; Lanzhe Guo; Yilong Yin; Tailin Wu.
 
-  Re-Evaluating the Impact of Unseen-Class Unlabeled Data on Semi-Supervised Learning Model. ICLR 2025 (清华推荐A类) [paper](https://arxiv.org/abs/2503.00884)
+  Re-Evaluating the Impact of Unseen-Class Unlabeled Data on Semi-Supervised Learning Model. ICLR 2025 (CCF A) [paper](https://arxiv.org/abs/2503.00884)
   
 * Yue Yuan; **Rundong He***; Yicong Dong; Zhongyi Han; Yilong Yin.  (Note: * denotes the corresponding author)
   
