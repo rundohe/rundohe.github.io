@@ -40,6 +40,7 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
 * AAAI 2023-2024
 
 ## Recent News
+* 2026/09/25: 1 paper accepted to NeurIPS 2026. Congratulations to Kunpeng Sui.
 * 2026/05/02: 1 paper accepted to ICML 2026. Congratulations to Yuxiang Xu.
 * 2026/02/04: 1 paper accepted to KBS.
 * 2026/01/26: 1 paper accepted to ICLR 2026.
