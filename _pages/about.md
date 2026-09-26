@@ -82,10 +82,14 @@ Semi-supervised Learning; Out-of-distribution Detection; AI for Science; Graph l
   
    CLIP-driven Outliers Synthesis for few-shot OOD detection. [paper](https://arxiv.org/abs/2404.00323)
 
-### Accepted Conference
+### Accepted Conference (Note: * denotes the corresponding author)
 
-* Yuxiang Xu, **Rundong He***, Zhiyuan Yan, Yicong Dong, Zhongyi Han, Xiaoyan Wang, Yilong Yin. (Note: * denotes the corresponding author)
+* Kunpeng Sui, **Rundong He***, Jie Su
 
+  Strengthen Out-of-Distribution Detection via Adaptive Mahalanobis Gap. NeurIPS 2026 (CCF A) 
+
+* Yuxiang Xu, **Rundong He***, Zhiyuan Yan, Yicong Dong, Zhongyi Han, Xiaoyan Wang, Yilong Yin.
+  
   BPL: Generalizable Deepfake Detection via Bias-only Pair-aware Learning. ICML 2026 (CCF A) 
 
 * **Rundong He**; Jieming Shi.
